@@ -3,7 +3,7 @@ Readme.md (Cách cài Git trên Windows)
 [Visit Git Website](https://git-scm.com/download/win) 
 Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về License bạn có thể đọc qua và tiếp tục bấm Next. 
 2. Bạn sẽ đi dến màn hình chọn các thành phần để cài đặt: Nên chọn default của màn hình.
-!(https://github.com/Dan470112/HocLamGitHub/blob/main/GitInstallDefault.png)
+![Select Components](https://github.com/Dan470112/HocLamGitHub/blob/main/GitInstallDefault.png)
 3. Kê tiếp chọn cài đặt chương trình soan thạo văn bản
    Bạn cũng có thể cài đặt chương trình sọan thảo khác ngoài vim default (nếu muốn).
 https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image2.png
