@@ -8,7 +8,7 @@ Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về 
    Bạn cũng có thể cài đặt chương trình sọan thảo khác ngoài vim default (nếu muốn).
 ![Default Editor](https://github.com/Dan470112/HocLamGitHub/blob/main/DefaultEditor.png)
 4. Màn hình kế tiếp là **chọn môi trường cho biến PATH** như sau:
-![AdjustingPath]https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image3.png
+![AdjustingPath](https://github.com/Dan470112/HocLamGitHub/blob/main/AdjustingPath.png)
 Biến này giữ danh sách thư mục nơi mà chương trình được định vị. Mục đích để bạn không cần gõ con đường đầy đủ khi chạy chương trình tại console, bạn chỉ cần gõ tên chương trình là đủ.
 5. Màn hình kế tiếp liên quan đến kết nối HPPTS:
 https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image4.png
