@@ -1,6 +1,6 @@
 Readme.md (Cách cài Git trên Windows)
 1. Đầu tiên Bạn phải _download_ phần cài đặt tại URL sau(chỉ với Windows):
-https://git-scm.com/download/win 
+[Visit Git Website](https://git-scm.com/download/win) 
 Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về License bạn có thể đọc qua và tiếp tục bấm Next. 
 2. Bạn sẽ đi dến màn hình chọn các thành phần để cài đặt: Nên chọn default của màn hình.
 https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image1.png
