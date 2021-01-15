@@ -2,11 +2,11 @@ Readme.md (Cách cài Git trên Windows)
 1. Đầu tiên Bạn phải _download_ phần cài đặt tại URL sau(chỉ với Windows):
 [Visit Git Website](https://git-scm.com/download/win) 
 Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về License bạn có thể đọc qua và tiếp tục bấm Next. 
-2. Bạn sẽ đi dến màn hình chọn các thành phần để cài đặt: Nên chọn default của màn hình.
+2. Bạn sẽ đi dến màn hình **chọn các thành phần để cài đặt: Nên chọn default của màn hình.**
 ![Select Components](https://github.com/Dan470112/HocLamGitHub/blob/main/GitInstallDefault.png)
-3. Kê tiếp chọn cài đặt chương trình soan thạo văn bản
+3. Kê tiếp **chọn cài đặt chương trình soan thạo văn bản**
    Bạn cũng có thể cài đặt chương trình sọan thảo khác ngoài vim default (nếu muốn).
-https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image2.png
+![Default Editor](https://github.com/Dan470112/HocLamGitHub/blob/main/DefaultEditor.png)
 4. Màn hình kế tiếp là chọn môi trường cho biến PATH như sau:
 https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image3.png
 Biến này giữ danh sách thư mục nơi mà chương trình được định vị. Mục đích để bạn không cần gõ con đường đầy đủ khi chạy chương trình tại console, bạn chỉ cần gõ tên chương trình là đủ.
